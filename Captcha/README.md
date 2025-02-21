@@ -1,6 +1,5 @@
 # XEVIL
 [register xevil](https://t.me/Xevil_check_bot?start=1204538927)
-Register : 
 ```php
 $apikey = "xxx";
 $captcha = new Xevil($apikey);
