@@ -17,3 +17,6 @@
 # Captcha
 - Berfokus kepada Fungsi bypass Captcha
 - Apikey atau tanpa Apikey
+
+# Donation
+[![paypal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/paypalme/iewil)
