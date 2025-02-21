@@ -1,5 +1,3 @@
-# Modul
-
 # Main
 - Berfokus kepada fungsi utama yang sering di gunakan
 - Lebih baik di gunakan
