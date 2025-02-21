@@ -1,7 +1,5 @@
 <?php
 
-/* Fungsi hitungan mundur */
-
 function Countdown($tmr){
 	date_default_timezone_set("UTC");
 	$symbol = [' ─ ',' / ',' │ ',' \ ',];
@@ -19,7 +17,3 @@ function Countdown($tmr){
 	print "\r           \r";
 }
 
-/******************** EXAMPLE ********************/
-
-$tmr = 60; // 60 adalah waktu dalam detik
-Countdown(60); // memperlihatkan hitungan mundur 
