@@ -5,7 +5,7 @@ $apikey = "xxx";
 $captcha = new Xevil($apikey);
 
 /* Penggunaan Fungsi */
-$getBalance = getBalance();
+$getBalance = $captcha->getBalance();
 
 $cap = $captcha->RecaptchaV2($sitekey, $pageurl);
 $cap = $captcha->Hcaptcha($sitekey, $pageurl );
